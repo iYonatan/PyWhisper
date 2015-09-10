@@ -58,19 +58,6 @@ elif op is "UPDATE":
 else:
     print "REMOVE"
 
-# for d in range(len(disk.devices)):
-#
-#     if not db_con.if_exist(add_disk,data):
-#          add_disk = ("INSERT INTO disk"
-#                      "(user_id,os_name,device,mountpoint,fstype,total)"
-#                      "VALUES (%s,%s,%s,%s,%s,%s)")
-#          disk_data = (user_id,disk.os_name,disk.devices[d],disk.mountpoint[d],disk.fstype[d],disk.total[d])
-#          db_con.insert(add_disk,disk_data)
-#     else:
-#         print
-
-print "DISK has been edited"
-
 # net = network()
 # print net.ipconfig
 
