@@ -1,0 +1,35 @@
+--------------------------------- web staff ---------------------------------
+
+Web hosting: http://members.000webhost.com/cpanel.php?accountID=19356059&login_hash=biw2RnTY1MwR7dZ2
+
+Web editor: https://codeanywhere.com/editor/
+
+Database: http://www.phpmyadmin.co/                     database access:            --> Server: db4free.net
+                                                                                    --> Username: whisper
+                                                                                    --> Password: @wsx3edc
+
+--------------------------------- Python staff ---------------------------------
+
+-----> cpuinfo
+
+'cpuinfo' library example: https://github.com/workhorsy/py-cpuinfo
+
+-----> psutil
+
+'psutil'  library tutorials: https://pythonhosted.org/psutil/
+'psutil' memory example: https://github.com/giampaolo/psutil/blob/master/examples/meminfo.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

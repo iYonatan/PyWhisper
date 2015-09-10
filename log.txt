@@ -1,0 +1,130 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : YonatanEilat
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : Home
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : 90-2B-34-06-73-A2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Hosted Network Virtual Adapter
+   Physical Address. . . . . . . . . : 96-F6-52-01-4D-2D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::25c6:8fb1:ac36:e878%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.78.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Sunday, August 30, 2015 7:52:21 PM
+   Lease Expires . . . . . . . . . . : Monday, August 31, 2015 12:22:20 AM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.78.254
+   DHCPv6 IAID . . . . . . . . . . . : 503337046
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-EA-7D-17-90-2B-34-06-73-A2
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::30de:27ce:ec71:1171%7(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.159.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Sunday, August 30, 2015 7:52:21 PM
+   Lease Expires . . . . . . . . . . : Monday, August 31, 2015 12:22:20 AM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.159.254
+   DHCPv6 IAID . . . . . . . . . . . : 536891478
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-EA-7D-17-90-2B-34-06-73-A2
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   Primary WINS Server . . . . . . . : 192.168.159.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi 3:
+
+   Connection-specific DNS Suffix  . : Home
+   Description . . . . . . . . . . . : Atheros AR9271 Wireless Network Adapter
+   Physical Address. . . . . . . . . : 90-F6-52-01-4D-2D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f16b:8f0e:a306:42bd%21(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.19(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Sunday, August 30, 2015 7:52:32 PM
+   Lease Expires . . . . . . . . . . : Monday, August 31, 2015 12:52:32 AM
+   Default Gateway . . . . . . . . . : 10.0.0.138
+   DHCP Server . . . . . . . . . . . : 10.0.0.138
+   DHCPv6 IAID . . . . . . . . . . . : 76609106
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-EA-7D-17-90-2B-34-06-73-A2
+   DNS Servers . . . . . . . . . . . : 10.0.0.138
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{4CEF087C-5415-448F-A24D-F19A1F59A5E9}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:5ef5:79fb:38cc:2d1e:f5ff:ffec(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::38cc:2d1e:f5ff:ffec%15(Preferred) 
+   Default Gateway . . . . . . . . . : ::
+   DHCPv6 IAID . . . . . . . . . . . : 452984832
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-EA-7D-17-90-2B-34-06-73-A2
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Tunnel adapter isatap.{C159B70C-822D-47CD-B1B0-CEBE677D13E7}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.Home:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Home
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
